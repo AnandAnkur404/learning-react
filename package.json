@@ -4,6 +4,8 @@
   "description": "Welcome to learning react series of day 02",
   "main": "App.js",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "repository": {
